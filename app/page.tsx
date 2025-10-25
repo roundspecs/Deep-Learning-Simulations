@@ -6,7 +6,7 @@ export default function Home() {
       id: "perceptron",
       title: "Perceptron",
       description: "Simple perceptron visualizer — inputs, weights and learning",
-      href: "/perceptron",
+      href: "./perceptron",
     },
   ];
 
